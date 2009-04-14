@@ -1,5 +1,5 @@
 **/build/*
-.pbxuser
-.modelv3
+*.pbxuser
+*.modelv3
 .DS_Store
 profile
